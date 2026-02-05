@@ -3,7 +3,7 @@ import { Truck, Users, Tag, MapPin, MessageCircle, ShoppingBag, Instagram } from
 
 export const profileData = {
   title: "RIO COLOMBIA",
-  subtitle: "Fashion & Accessories | Envíos a todo el país 🇨🇴",
+  subtitle: "Moda & Accesorios | Envíos a todo el país 🇨🇴",
   image: "/logo.png",
 };
 

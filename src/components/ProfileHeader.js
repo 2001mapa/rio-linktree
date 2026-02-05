@@ -18,7 +18,7 @@ export default function ProfileHeader({ title, subtitle, image }) {
       <h1 className="text-2xl font-bold tracking-[0.2em] text-black uppercase text-center mt-2 font-sans">
         {title}
       </h1>
-      <p className="text-xs text-gray-500 tracking-widest uppercase">
+      <p className="text-[10px] md:text-xs text-gray-500 tracking-wide md:tracking-widest uppercase text-center px-4 text-balance">
         {subtitle}
       </p>
     </div>
