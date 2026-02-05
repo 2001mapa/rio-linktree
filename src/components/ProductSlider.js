@@ -24,19 +24,19 @@ export default function ProductSlider() {
   const slides = [
     { 
         id: 1, 
-        src: "/images/slide-1.jpg", 
+        src: "/images/Slide-1.jpg", 
         alt: "Colección exclusiva Rio",
         title: "Nueva Colección" 
     },
     { 
         id: 2, 
-        src: "/images/slide-2.jpg", 
+        src: "/images/Slide-2.jpg", 
         alt: "Detalles en oro",
         title: "Detalles Únicos" 
     },
     { 
         id: 3, 
-        src: "/images/slide-3.jpg", 
+        src: "/images/Slide-3.jpg", 
         alt: "Estilo Rio Accesorios",
         title: "Tendencia 2026" 
     },
